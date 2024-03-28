@@ -21,7 +21,7 @@ repository               : "chenxi52/chenxi52.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1084.JPG"
+  avatar           : "tou.png"
   name             : "Chenxi"
   pronouns         : # example: "she/her"  
   bio              : "Third-year PhD student."
